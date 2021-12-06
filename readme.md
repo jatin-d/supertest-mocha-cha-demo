@@ -17,3 +17,7 @@ make sure you are in the cloned repository in the terminal. Use node package man
 ```bash
 npm test
 ```
+
+## Seeing the reports
+
+within the cloned repository, navigate to 'mochawesome-report' directory and open mochawesom.html file.
